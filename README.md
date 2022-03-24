@@ -1,2 +1,3 @@
 # learn-vault-agent
-Learn tutorial assets related to Vault Agent
+
+This repository contains Vault Agent tutorial files used by [Vault Learn](https://learn.hashicorp.com/vault).
